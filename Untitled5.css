@@ -1,0 +1,381 @@
+.MAIN1stDIV {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.aboutme {
+    font-size: 40px;
+    font-family: Lucida Bright;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+}
+
+.myself {
+    font-size: 30px;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+}
+
+.cpython{
+    font-size: 30px;
+    position: absolute;
+    top: 250px;
+    left: 10px;
+}
+
+.so{
+     font-size: 30px;
+    position: absolute;
+    top: 300px;
+    left: 10px;
+}
+
+.soal{
+     font-size: 30px;
+    position: absolute;
+    top: 350px;
+    left: 10px;
+}
+
+.c{
+position: absolute;
+text-align: left;
+    color: white;
+    top: 550px;
+    left: 50px;
+    padding: 0px ;
+}
+
+.py{
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 550px;
+    left : 100px;
+    padding: 0px ;
+}
+
+.ht{
+    position: absolute;
+    text-align: right;
+    color: white;
+    top: 490px;
+    padding: 0px ;
+}
+
+.MAIN2ndDIV {
+position: relative;
+    text-align: center;
+    color: white;
+}
+.thingsi_learnt{
+font-size: 40px;
+    font-family: Lucida Bright;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+.thingsi_{
+   font-size: 40px;
+    font-family: Lucida Bright;
+    position: absolute;
+    top: 30px;
+    left: 420px;
+}
+
+.Cbasik{
+font-size: 30px;
+    position: absolute;
+    font-family: Helvetica;
+    top: 110px;
+    left: 10px;
+}
+.Cbasik1{
+ font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 170px;
+    left: 10px;
+}
+.Cbasik2{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 170px;
+    left: 410px;
+}
+.Cbasik3{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+.Cbasik4{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 200px;
+    left: 70px;
+}
+.Cbasik5{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 200px;
+    left: 130px;
+}
+.Cbasik6{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 200px;
+    left: 440px;
+}
+.Cbasik7{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 230px;
+    left: 10px;
+}
+.Cbasik8{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 230px;
+    left: 35px;
+}
+.Cbasik9{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 230px;
+    left: 130px;
+}
+.Cbasik10{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 230px;
+    left: 430px;
+}
+.Cbasik11{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 260px;
+    left: 10px;
+}
+
+.pybasik{
+   font-size: 30px;
+    font-family:Helvetica;
+    position: absolute;
+    top: 290px;
+    left: 10px;
+}
+.pybasik1{
+   font-size: 30px;
+    font-family:Helvetica;
+    position: absolute;
+    top: 290px;
+    left: 45px;
+}
+.pybasik2{
+   font-size: 30px;
+    font-family:Helvetica;
+    position: absolute;
+    top: 290px;
+    left: 160px;
+}
+.pybasik3{
+   font-size: 20px;
+    font-family:Courier New;
+    position: absolute;
+    top: 350px;
+    left: 10px;
+}
+.pybasik4{
+   font-size: 20px;
+    font-family:Courier New;
+    position: absolute;
+    top: 350px;
+    left: 189px;
+}
+.pybasik5{
+   font-size: 20px;
+    font-family:Courier New;
+    position: absolute;
+    top: 350px;
+    left: 435px;
+}
+.pybasik6{
+   font-size: 20px;
+    font-family:Courier New;
+    position: absolute;
+    top: 380px;
+    left: 10px;
+}
+.pybasik7{
+   font-size: 20px;
+    font-family:Courier New;
+    position: absolute;
+    top: 380px;
+    left: 202px;
+    padding: 0px;
+}
+.pybasik8{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 380px;
+    left: 415px;
+}
+.pybasik9{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 410px;
+    left: 10px;
+}
+.pybasik10{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 410px;
+    left: 215px;
+}
+.pybasik11{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 410px;
+    left: 457px;
+}
+.pybasik12{
+   font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 440px;
+    left: 10px;
+}
+.Main3rdDIV{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.myprojinEMC{
+    font-size: 40px;
+    font-family: Lucida Bright;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    padding:0px;
+}
+.gasleakfixer{
+    font-size: 30px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+}
+.gasleakfixer1{
+font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
+.gasleakfixer2{
+font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 180px;
+    left: 10px;
+}
+.machinelearning{
+ font-size: 30px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 210px;
+    left: 10px;
+}
+.machinelearning1{
+ font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 260px;
+    left: 10px;
+}
+.machinelearning2{
+ font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 290px;
+    left: 10px;
+}
+.Main4rdDIV{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.pyproj{
+ font-size: 40px;
+    font-family: Lucida Bright;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    padding:0px;
+}
+.pyproj1{
+ font-size: 30px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 80px;
+    left: 10px;
+    padding:0px;
+}
+.pyproj2{
+ font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    padding:0px;
+}
+.pyproj3{
+ font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    padding:0px;
+}
+.pyproj4{
+ font-size: 30px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    padding:0px;
+}
+.pyproj5{
+ font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 240px;
+    left: 10px;
+    padding:0px;
+}
+.pyproj6{
+ font-size: 20px;
+    font-family: Courier New;
+    position: absolute;
+    top: 270px;
+    left: 10px;
+    padding:0px;
+}
